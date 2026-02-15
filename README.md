@@ -38,4 +38,4 @@ I'm just a student studying information engineering in Japan. I'm passionate abo
 
 ### GitHub 3D Contributions
 
-![](./profile-3d-contrib/profile-night-view.svg)
+![](./profile-3d-contrib/profile-night-view.svg?v=1)
